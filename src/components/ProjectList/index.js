@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Modal from '../Modal';
 
 
-const ProjectList = ({ category }) => {
+const ProjectList = ({ category }) => { 
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [currentPhoto, setCurrentPhoto] = useState();
 
