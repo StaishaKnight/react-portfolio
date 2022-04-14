@@ -2,7 +2,7 @@
 main {
 	margin: 0 auto;
 	max-width: 90%;
-  padding: 50px 30px;
+  padding: 50px 40px;
 }
 :root {
   --primary: #8c54ff;
@@ -33,12 +33,12 @@ body {
   margin: 0;
   padding: 0;
   font-weight: 600;
-  line-height: 1.5;
-  font-size: 18px;
+  line-height: 2.5;
+  font-size: 20px;
   letter-spacing: .1em;
   background: var(--light);
   color: var(--dark);
-  font-family: 'Montserrat', sans-serif;
+  font-family:'Times New Roman', Times, serif;
 
 }
 
@@ -48,9 +48,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family:'Times New Roman', Times, serif;
   font-weight: 500;
-  margin: 5px 0;
+  margin: 5px, ;
   line-height: 1.25;
 }
 
@@ -79,7 +79,7 @@ h6 {
 }
 
 p {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   margin-top: 0;
 }
 
@@ -255,7 +255,7 @@ textarea {
 }
 
 .modalBackdrop {
-	background: rgba(0, 0, 0, .65);
+	background: rgba(0, 0, 0, 0.988);
 	bottom: 0;
 	left: 0;
 	overflow: auto;
@@ -266,7 +266,7 @@ textarea {
 }
 
 .modalContainer {
-	background: rgba(0,0,0,0.5);
+	background: rgba(0, 0, 0, 0.5);
 	border-radius: 5px;
 	max-width: 100%;
 	margin: 50px auto;
@@ -278,11 +278,11 @@ textarea {
 	font-size: 25px;
 	font-weight: 600;
 	margin-bottom: 25px;
-  color: red;
+  color: rgb(0, 153, 255);
 }
 
 button {
-	background: red;
+	background: rgb(0, 0, 0);
 	border: 0;
 	border-radius: 5px;
 	color: #fff;
@@ -326,6 +326,7 @@ a {
 .box {
   margin: 1rem;
   position: relative;
+
 }
 
 .img-container {
@@ -341,7 +342,7 @@ a {
 }
 
 .project-name {
-  color: red;
+  color: rgb(0, 0, 0);
   text-align:center;
   text-shadow: 2px 2px 5px rgb(88, 88, 88);
   font-size: 30px;

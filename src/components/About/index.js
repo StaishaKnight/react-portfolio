@@ -16,7 +16,7 @@ function About() {
          at The University of Texas coding bootcamp. I am also currently a freelancer for small businesses, helping 
          people uniquely connect with their target audience. I have a long history of producing creative content, which 
          includes video production and social media management. I'm highly skilled in the creative side of development 
-         and I appreciate clean, high quality and elegant development.
+         and I appreciate clean, high quality and elegant work.
          Please feel free to connect with me on LinkedIn or through email! 
          </p>
 

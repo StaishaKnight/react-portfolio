@@ -29,7 +29,7 @@ function Nav(props) {
 
           <li id="nav-items"className={`mx-2 ${currentPage === pages[0] && 'navActive'}`}>
           <a data-testid="about" href="#about" onClick={() => setCurrentPage(pages[0])}>
-              About me
+              About Me
             </a>
           </li>
 
