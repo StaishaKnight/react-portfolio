@@ -22,7 +22,7 @@ No testing performed
 MIT
 
 ## Submission
-Check out my work here:  https://staishaknight.github.io/react-portfolio/
+Check out my work here:  "https://StaishaKnight.github.io/react-portfolio"
 
 ## Questions:  
  Here is a link to my github:  
