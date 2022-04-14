@@ -6,7 +6,7 @@ import { capitalizeFirstLetter } from '../../utils/helpers';
 function Gallery() {
   const [categories] = useState([
     {
-      name: 'projects', description: 'A collection of my work' }
+      name: 'projects', description: 'Check out my work' }
   ]);
   return (
     <div>

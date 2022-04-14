@@ -45,7 +45,8 @@ const ProjectList = ({ category }) => {
     }
   ]);
 
-  const currentPhotos = photos.filter(photo => photo.category === category);
+  // const currentPhotos = photos.filter(photo => photo.category === category);
+  const currentPhotos = photos
   const toggleModal = (image, i) => {
     setCurrentPhoto({ ...image, index: i });
     setIsModalOpen(!isModalOpen);
@@ -53,7 +54,7 @@ const ProjectList = ({ category }) => {
   
   return (
     <div>
-      {isModalOpen && (
+      {/* {isModalOpen && (
         <Modal onClose={toggleModal} currentPhoto={currentPhoto} />
       )}
       
@@ -71,7 +72,9 @@ const ProjectList = ({ category }) => {
           
           </div>
         ))}
-      </div>
+      </div> */}
+      Projects 
+      
     </div>
     
   );

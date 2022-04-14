@@ -7,7 +7,7 @@ function Resume() {
   return (
     <section className="my-5 about-container"  >
     <div >
-      <h1 id="about">Check out my resume</h1>
+      <h1 id="about">Have a look at my resume</h1>
       
       <img src={resumeImage} className="my-2" style={{ height: "auto", width: "80%" }} alt="resume" />
     </div>

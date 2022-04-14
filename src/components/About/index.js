@@ -12,7 +12,7 @@ function About() {
     </div>
       <div id="about-text" className="my-2">
         <p>
-          Hi! I'm Staisha Knight and welcome to my portfolio. I recently became certified in Full Stack Development 
+        Hi! I'm Staisha Knight and welcome to my portfolio. I recently became certified in Full Stack Development 
          at The University of Texas coding bootcamp. I am also currently a freelancer for small businesses, helping 
          people uniquely connect with their target audience. I have a long history of producing creative content, which 
          includes video production and social media management. I'm highly skilled in the creative side of development 
